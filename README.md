@@ -1,4 +1,4 @@
-# PROJETO EXCEL
+# PROJETO 01 EXCEL
 Repositório voltado ao projeto do curso de Excel - Santander - Excel com Inteligência Artificial.
 
 Esse primeiro desafio do curso Santander - Excel com Inteligência Artificial, teve como objetivo a criação de uma Ferramenta de Controle de Investimentos com Excel.
