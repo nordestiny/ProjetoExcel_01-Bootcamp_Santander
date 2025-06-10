@@ -4,7 +4,7 @@
 
 Repositório voltado a conclusão do primeiro módulo do Bootcamp Santander - Excel com Inteligência Artificial.
 
-A base do defesafio foi aplicar os conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos em fundos imobiliários.
+A base do desafio foi aplicar os conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos em fundos imobiliários.
 
 ## 🎯Objetivos do Desafio
 - Criar ferramentas de simulação de investimentos em Excel;
