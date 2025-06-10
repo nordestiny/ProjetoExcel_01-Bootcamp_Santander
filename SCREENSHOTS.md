@@ -1,4 +1,6 @@
 ## 🖼️Screenshots
+Registros do resultado final da reprodução do projeto.
+
 ![Image](https://github.com/user-attachments/assets/aea335e3-89a9-4218-9b69-2140e9788872)
 ![Image](https://github.com/user-attachments/assets/447e6224-cddd-4892-8f19-54267fde824f)
 ![Image](https://github.com/user-attachments/assets/47e01497-f9b9-4276-ae93-bdaf9f33c5e6)
