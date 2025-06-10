@@ -15,13 +15,13 @@ A base do desafio foi aplicar os conceitos de Excel no desenvolvimento de uma fe
 ## 🏹 Etapas do Desafio
 | Etapas | Descrição |
 |------|---------|
-| 01 | Entender o Desafio |
+| 01 | Entender o desafio |
 | 02 | Fazer as perguntas de negócio |
-| 03 | Base da Tabela |
-| 04 | Simulador de Patrimônio |
-| 05 | Simulador de Cenários |
-| 06 | Variáveis Globais) |
-| 07 | Nomeando Intervalos |
+| 03 | Base da tabela |
+| 04 | Simulador de patrimônio |
+| 05 | Simulador de cenários |
+| 06 | Variáveis globais) |
+| 07 | Nomeando intervalos |
 | 08 | Uniformidade visual |
 | 09 | Tipos de fundo |
 
